@@ -1,0 +1,12 @@
+E:\Git\QLXN_TU\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+E:\Git\QLXN_TU\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Git\QLXN_TU\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Git\QLXN_TU\ClassLibrary1\bin\Debug\EntityFramework.dll
+E:\Git\QLXN_TU\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\QLXN_TU\ClassLibrary1\bin\Debug\EntityFramework.xml
+E:\Git\QLXN_TU\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\QLXN_TU\ClassLibrary1\obj\Debug\QLXN_DatabaseProvider.csproj.AssemblyReference.cache
+E:\Git\QLXN_TU\ClassLibrary1\obj\Debug\QLXN_DatabaseProvider.csproj.CoreCompileInputs.cache
+E:\Git\QLXN_TU\ClassLibrary1\obj\Debug\QLXN_DatabaseProvider.csproj.CopyComplete
+E:\Git\QLXN_TU\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Git\QLXN_TU\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

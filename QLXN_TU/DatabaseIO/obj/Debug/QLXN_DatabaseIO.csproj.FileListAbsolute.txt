@@ -1,0 +1,15 @@
+E:\Git\QLXN_TU\DatabaseIO\bin\Debug\DatabaseIO.dll.config
+E:\Git\QLXN_TU\DatabaseIO\bin\Debug\DatabaseIO.dll
+E:\Git\QLXN_TU\DatabaseIO\bin\Debug\DatabaseIO.pdb
+E:\Git\QLXN_TU\DatabaseIO\bin\Debug\ClassLibrary1.dll
+E:\Git\QLXN_TU\DatabaseIO\bin\Debug\EntityFramework.dll
+E:\Git\QLXN_TU\DatabaseIO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\QLXN_TU\DatabaseIO\bin\Debug\ClassLibrary1.pdb
+E:\Git\QLXN_TU\DatabaseIO\bin\Debug\ClassLibrary1.dll.config
+E:\Git\QLXN_TU\DatabaseIO\bin\Debug\EntityFramework.xml
+E:\Git\QLXN_TU\DatabaseIO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\QLXN_TU\DatabaseIO\obj\Debug\QLXN_DatabaseIO.csproj.AssemblyReference.cache
+E:\Git\QLXN_TU\DatabaseIO\obj\Debug\QLXN_DatabaseIO.csproj.CoreCompileInputs.cache
+E:\Git\QLXN_TU\DatabaseIO\obj\Debug\QLXN_DatabaseIO.csproj.CopyComplete
+E:\Git\QLXN_TU\DatabaseIO\obj\Debug\DatabaseIO.dll
+E:\Git\QLXN_TU\DatabaseIO\obj\Debug\DatabaseIO.pdb
